@@ -60,7 +60,7 @@ button {
 button:hover {
 
     background-color: #2a9d8f;
-    color: #e63946;
+    color: #ffee32;
     border: none;
     border-radius: 10px;
 
@@ -68,7 +68,7 @@ button:hover {
 
 button:active {
 
-    background-color: #606c38;
+    background-color: #f4acb7;
     color: #000000;    
     border: 2px solid #000;
     border-radius: 10px;
