@@ -1,5 +1,5 @@
 {
     "rewrites": [
-      { "source": "/", "destination": "/Practice - Day33.html" }
+      { "source": "/", "destination": "/Practice - Day 33.html" }
     ]
   }
